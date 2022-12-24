@@ -1,0 +1,12 @@
+berikut link websitenya : http://127.0.0.1:5000/
+
+langkah-langkah menjalankan app.py
+1. buka vscode
+2. buka file yg akan dijalankan
+3. buka terminal vscode
+4. ubah interpreter menjadi base:conda
+5. ketik pip install virtualenv pada terminal
+6. virtualenv env
+7. env\Scripts\activate.bat
+8. pip install flask
+9. flask run
